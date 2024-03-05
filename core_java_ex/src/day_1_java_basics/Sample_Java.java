@@ -14,6 +14,9 @@ public class Sample_Java {
         b=s.nextInt();
         c=a+b;
 		System.out.println("Addition of a="+a+" and b="+b+" is :"+c);
+		
+		c=a-b;
+		System.out.println("Sub of a="+a+" and b="+b+" is :"+c);
 	}
 
 }
