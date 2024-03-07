@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Sample_Java {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated methods stub
         Scanner s= new Scanner(System.in);
 		int a,b,c;
         
